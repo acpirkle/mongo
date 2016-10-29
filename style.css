@@ -1,0 +1,22 @@
+body{
+  background-color: #fde090;
+}
+.hotels{
+  border: 2px solid #589442;
+  padding:15px;
+  width: 75%;
+  border-bottom: 0;
+  background-color: #ffffff;
+
+}
+.searchForm{
+  text-align: center;
+  padding: 15px;
+  width: 50%;
+  background-color: #589442;
+}
+.displayed{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
